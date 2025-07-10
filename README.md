@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:e156bc&height=180&text=개발자%20박진성의%20GitHub입니다&animation=scaleIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ㅂㅈㄷㄱ </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> ㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴㅇㅁㄴ </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
